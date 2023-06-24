@@ -11,6 +11,7 @@ namespace lesson002
         static void Main(string[] args)
         {
             Console.WriteLine("hammaga salom!");
+            Console.Writeline("hello world:)");
         }
     }
 }
